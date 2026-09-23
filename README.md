@@ -37,10 +37,17 @@ B.Tech CS/IT @ Symbiosis University of Applied Sciences, Indore
 
 ---
 
-### Featured Projects
+### Featured Project
 
-**[Study Quest](https://github.com/Ishika-Parmar-27/Study-Quest-Game)** — Gamified MERN study tracker with quests, XP/levels, streaks, analytics, and a leaderboard.
-`React` `Node.js` `Express` `MongoDB` `JWT` · [Live demo](https://study-quest-game.vercel.app/)
+**🚀 [Study Quest](https://github.com/Ishika-Parmar-27/Study-Quest-Game)** — a gamified MERN study tracker where users create study quests, earn XP, level up, maintain streaks, unlock badges, and compete on a leaderboard.
+
+`React` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Tailwind CSS` `Recharts`
+
+🔗 [Live App](https://study-quest-game.vercel.app/) · [Source](https://github.com/Ishika-Parmar-27/Study-Quest-Game)
+
+---
+
+### Other Projects
 
 **[Employee Performance Management System](https://github.com/Ishika-Parmar-27/employee-performance-management-system)** — Spring Boot backend with role-based access (HR/Manager/Employee), JWT auth, Hibernate/JPA, and Swagger-documented REST APIs.
 `Spring Boot` `Spring Security` `JWT` `Hibernate` `MySQL`
@@ -58,4 +65,4 @@ Worked on authentication, password reset & email services, file upload APIs, and
 ---
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/ishika-parmar-383167377/) · [Email](ishika.27parmar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ishika-parmar-383167377/) · [Email](mailto:ishika.27parmar@gmail.com)
